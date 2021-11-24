@@ -1,0 +1,75 @@
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.exe
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.deps.json
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.runtimeconfig.json
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.runtimeconfig.dev.json
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\ref\TheAlleyCafe.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.pdb
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.AssemblyReference.cache
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.Login.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.GenerateResource.cache
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.AssemblyInfoInputs.cache
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.AssemblyInfo.cs
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.CoreCompileInputs.cache
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\ref\TheAlleyCafe.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.pdb
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.genruntimeconfig.cache
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.HomePage.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.ItemsInformation.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.Properties.Resources.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.DisplayAllDrinks.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.CopyComplete
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.AddItemToList.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.DisplayAllSandwiches.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.DisplayAllBakeryItems.resources
+D:\Courses\OOP 2\Final\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.OrderInformation.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.exe
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.deps.json
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.runtimeconfig.json
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.runtimeconfig.dev.json
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\ref\TheAlleyCafe.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\TheAlleyCafe.pdb
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.AssemblyReference.cache
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.Properties.Resources.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormTakeOrder.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.GenerateResource.cache
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.AssemblyInfoInputs.cache
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.AssemblyInfo.cs
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.CoreCompileInputs.cache
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.csproj.CopyComplete
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\ref\TheAlleyCafe.dll
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.pdb
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.genruntimeconfig.cache
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormAddItemToList.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormLogin.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormOrderInformation.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormReceipt.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormEmployee.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormEmployeeDetails.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.UserControlUpdateEmployees.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormEmployeeUpdate.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormEmployeeAdd.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormEmployeeDelete.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormItemsInfo.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormOrderDetails.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.UserControlDisplayBakery.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.UserControlDisplayDrinks.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.UserControlDisplaySandwiches.resources
+D:\Aiub recoding\New folder\TheAlleyCafe\TheAlleyCafe\obj\Debug\net5.0-windows\TheAlleyCafe.FormHome.resources
